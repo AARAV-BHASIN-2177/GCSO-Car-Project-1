@@ -14,9 +14,7 @@ function setup() {
 
   car.velocityX=speed;
 
-  if(car.x>wall.x){
-    car.velocityX=0;
-  }
+  
 
 
 
